@@ -18,6 +18,7 @@ class CompanyController
             "addresses" => [
                 [
                     "street" => "abc",
+                    "city" => "bla"
                 ]
             ]
         ]);
